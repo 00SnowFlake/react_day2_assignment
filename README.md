@@ -38,4 +38,4 @@ To run the app locally in development mode:
    npm run dev
    ```
 
-3. Open your browser and navigate to the local server address (usually `http://localhost:5173`).
+3. Open your browser and navigate to the local server address (usually `http://localhost:5174`).
